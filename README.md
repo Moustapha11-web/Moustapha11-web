@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...javaScript
 - 💞️ I’m looking to collaborate on ...fantsatic projects
 - 📫 How to reach me ...678050216
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Mr
 - ⚡ Fun fact: ...
 
 <!---
